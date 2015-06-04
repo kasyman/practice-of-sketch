@@ -21,7 +21,7 @@ Sketch是什么？中文官网上是这样用一句话介绍的：Sketch是一�
 
 目前Sketch只支持Mac版本。
 
-[Sketch下载地址](http://km.oa.com/group/15849/articles/show/221781?kmref=search)
+[Sketch下载地址（k吧文章）](http://km.oa.com/group/15849/articles/show/221781?kmref=search)
 
 ![Sketch主界面](/img/mainui.png)
 
@@ -32,8 +32,10 @@ step1: Sketch基础工具－图层，图形，文本，图片
 
 `亮点一` 
 能够根据需要选择你要制作的移动端机型，直接在该面板上设计。
+
 `亮点二` 
 你会发现，当你移动面板上的元素是，它会像keynote一样，显示像素距离，对齐线段供你参考。
+
 `亮点三` 
 矢量！矢量！矢量！
 
@@ -47,20 +49,26 @@ step2: Sketch模版的使用
 step3: Sketch插件的使用
 
 `安装方法` 
-1.Github
-2.Sketch Toolbox
+1.Github  2.Sketch Toolbox
 
-`常用插件介绍`
-1.Color 
+`一些链接`
+[前端神器！为网页设计而生的15个优质SKETCH插件](http://www.uisdc.com/15-best-sketch-plugins-for-developers)
+
+
+step4: Sketch Mirror
+
+`说明` 
+Sketch Mirror可以在app store上下载，是价值30元的付费app。只要连着同一个wifi，即可以实时在手机上查看在sketch上修改的效果。
+
 
 ## 学习计划
+目前项目里面还没有用到sketch，设计师也没有大片普及去用。因此可以把学习sketch当做是一种拓展性学习。可以先根据极客学院网站提供的教程，话两小时就可以把它学完，然后再找机会锻炼锻炼。
 
+抛一下链接：
 
-## 学习规则
+[Sketch 界面设计入门和实战](http://www.jikexueyuan.com/course/543.html)
 
-
-
-## 最佳实践
+[Sketch进阶与技巧](http://www.jikexueyuan.com/course/704.html)
 
 
 
